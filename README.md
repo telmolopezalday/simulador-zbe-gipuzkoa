@@ -4,7 +4,7 @@ Interfaz web de un simulador de aceptación de la Zona de Bajas Emisiones de Don
 
 El simulador es un modelo basado en agentes: parte de una encuesta a 374 personas y simula, semana a semana, cómo cambia la aceptación de la ZBE en las nueve comarcas de Gipuzkoa según la estrategia de comunicación que se aplique.
 
-![Mapa por comarcas](capturas/mapa.png)
+https://github.com/user-attachments/assets/798e90ef-c88f-4004-a946-dda52b84b285
 
 ## Mi parte
 La interfaz: configurar y combinar estrategias, lanzar simulaciones y ver los resultados por comarca en mapa y gráficos, junto a los datos de la encuesta.
